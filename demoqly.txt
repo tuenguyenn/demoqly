@@ -1,6 +1,2 @@
 
-demoqly user 1
-<<<<<<< HEAD
-demo user 2
-=======
->>>>>>> 526fb7a804a71f93dcc7db15a5545024df97ec76
+demo
