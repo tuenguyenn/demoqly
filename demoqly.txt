@@ -1,2 +1,3 @@
 
-demoqly
+demoqly user 1
+demo user 2
