@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-demoqly user 2 update
 
-=======
+
 demoqly user 1 update
->>>>>>> 203529b13a8930a23124c2a2eac172844996dc5d
